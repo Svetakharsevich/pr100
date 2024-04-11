@@ -1,0 +1,54 @@
+﻿@model DeleteBookViewModel
+<div class="book-form">
+    <form method="post" enctype="multipart/form-data">
+        <h1>Удаление книги</h1>
+        <input asp-for="Id" type="hidden" />
+        <div class="form-element">
+            <label asp-for="Title"></label>
+            <span>@Model.Title</span>
+        </div>
+        <div class="form-element">
+            <label asp-for="Author"></label>
+            <span>@Model.Author</span>
+        </div>
+        <div class="form-element">
+            <label asp-for="PageCount"></label>
+            <span>@Model.PageCount</span>
+        </div>
+        <div class="form-element">
+            <label asp-for="CategoryId"></label>
+            <span>
+                @{
+                    var selectedCategory = Model.Categories.FirstOrDefault(c => c.Value == Model.CategoryId.ToString());
+                    if (selectedCategory != null)
+                    {
+                        @selectedCategory.Text
+                    }
+                }
+            </span>
+        </div>
+        <div class="form-element">
+            <label asp-for="Photo"></label>
+            <span>@Model.PhotoString</span>
+            <label asp-for="Photo" accept=".png" />
+        </div>
+        <div class="form-element">
+            <label asp-for="File"></label>
+            <span>@Model.FileString</span>
+            <label asp-for="File" accept=".pdf" />
+        </div>
+        <h1>Вы уверенны, что хотите удалить книгу?</h1>
+        <div class="form-element form-element-buttons">
+            <input type="button"  id="backButton" value="Назад" />
+            <input type="submit" value="Удалить" />
+        </div>
+    </form>
+</div>
+<script>
+    // получаем кнопку по ее селектору CSS
+    let backButton = document.querySelector('#backButton');
+    // добавляем обработчик события
+    backButton.onclick = () => {
+        window.location = "/books/index";
+    };
+</script>

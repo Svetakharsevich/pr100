@@ -1,0 +1,31 @@
+﻿.books-container {
+    display: flex;
+    flex-flow: row;
+}
+.categories-list {
+    background: #0C1648;
+    min-width: 300px;
+    min-height: 400px;
+    margin-right: 1em;
+}
+
+.books-list {
+    margin-top: 1em;
+    flex-grow: 1;
+}
+.categories-list ul {
+    list-style: none;
+}
+
+.categories-list a:link, .categories-list a:visited {
+    color: #E9E8E0;
+    text-decoration: none;
+}
+
+.categories-list li {
+    margin-bottom: 0.5em;
+}
+
+.categories-list a:hover {
+    color: #D2AB99;
+}

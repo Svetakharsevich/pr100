@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\avs2rbev.oqo.pdf",
+      "PackagePath": "staticwebassets\\books\\avs2rbev.oqo.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\book1.pdf",
+      "PackagePath": "staticwebassets\\books\\book1.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\book2.pdf",
+      "PackagePath": "staticwebassets\\books\\book2.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\book3.pdf",
+      "PackagePath": "staticwebassets\\books\\book3.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\book4.pdf",
+      "PackagePath": "staticwebassets\\books\\book4.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\book5.pdf",
+      "PackagePath": "staticwebassets\\books\\book5.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\hw4pwvgc.3qb.pdf",
+      "PackagePath": "staticwebassets\\books\\hw4pwvgc.3qb.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\rgmvym2d.cja.pdf",
+      "PackagePath": "staticwebassets\\books\\rgmvym2d.cja.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\smp4gkwa.zfm.pdf",
+      "PackagePath": "staticwebassets\\books\\smp4gkwa.zfm.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\books\\tvpgrdud.sf3.pdf",
+      "PackagePath": "staticwebassets\\books\\tvpgrdud.sf3.pdf"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\5hhnygsy.bm4.png",
+      "PackagePath": "staticwebassets\\images\\books\\5hhnygsy.bm4.png"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\book1.PNG",
+      "PackagePath": "staticwebassets\\images\\books\\book1.PNG"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\book2.PNG",
+      "PackagePath": "staticwebassets\\images\\books\\book2.PNG"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\book3.PNG",
+      "PackagePath": "staticwebassets\\images\\books\\book3.PNG"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\book4.PNG",
+      "PackagePath": "staticwebassets\\images\\books\\book4.PNG"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\book5.PNG",
+      "PackagePath": "staticwebassets\\images\\books\\book5.PNG"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\fj2gupmu.god.png",
+      "PackagePath": "staticwebassets\\images\\books\\fj2gupmu.god.png"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\otgoy1ir.p1s.png",
+      "PackagePath": "staticwebassets\\images\\books\\otgoy1ir.p1s.png"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\vqrlky3p.qom.png",
+      "PackagePath": "staticwebassets\\images\\books\\vqrlky3p.qom.png"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\images\\books\\ynt4ed40.aaz.png",
+      "PackagePath": "staticwebassets\\images\\books\\ynt4ed40.aaz.png"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\styles\\add.css",
+      "PackagePath": "staticwebassets\\styles\\add.css"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\styles\\catalog.css",
+      "PackagePath": "staticwebassets\\styles\\catalog.css"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\styles\\login.css",
+      "PackagePath": "staticwebassets\\styles\\login.css"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\styles\\main.css",
+      "PackagePath": "staticwebassets\\styles\\main.css"
+    },
+    {
+      "Id": "D:\\ИС\\19 библиотека\\Library\\Library\\wwwroot\\styles\\reg.css",
+      "PackagePath": "staticwebassets\\styles\\reg.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Library.props",
+      "PackagePath": "build\\Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Library.props",
+      "PackagePath": "buildMultiTargeting\\Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Library.props",
+      "PackagePath": "buildTransitive\\Library.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
